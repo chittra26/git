@@ -1,0 +1,409 @@
+
+
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+
+    .nav{
+    background-color: black;
+    width:1190px;
+    float: right;
+    height: 130px;
+    margin-right:140px;
+   
+    
+}
+
+.nav a{
+color: white;
+padding: 10px;
+margin-left: 100px;
+margin-top: 38px;
+text-decoration: none;
+text-align: center;
+display: inline-flex;
+
+
+}
+.nav a:hover{
+    border-bottom: 2px solid #1DCB8B;
+}
+.logo{
+    margin-left: 100px;
+}
+.dropbtn {
+    background-color:black;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #1DCB8B;
+    width: 200px;
+    z-index: 1;
+  
+    
+  }
+  
+  .dropdown-content a {
+    color: white;
+ 
+   margin-left: -20px;
+    text-decoration: none;
+    display: block;
+    font-size: 130%;
+
+   
+   
+  
+  }
+  .dropdown-content a:hover{
+    border: none;
+  
+  }
+  
+
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover {
+    border-bottom: 2px solid #1DCB8B; 
+  }
+  .contactus{
+    background-color:#1DCB8B;
+     color: white;
+      border-radius:30px;
+      font-size: larger;
+       padding-left: 30px;
+       padding-right: 30px;
+       padding: 10px;
+        border: 2px solid #1DCB8B;
+         margin-left: 200px;
+  }
+  .megaevent{
+    color:white;
+    font-size: 800%;
+    margin-left: 400px;
+    position: absolute;
+    margin-top: -750px;
+    z-index: 1;
+
+    
+  }
+  table, td{
+    border:1px solid white;
+    border-bottom: none;
+    border-collapse: collapse;
+     margin-top: -400px;
+     margin-left: 370px;
+    font-size: 160%;
+    padding: 30px;
+    color: white; 
+ 
+
+  }
+
+    .planningyourbuisness div a{
+        text-decoration: none;
+        padding: 10px;
+        
+      
+    }
+    .timeline{
+        position: absolute;
+      
+      }
+      .agenda h1  {
+      margin-top: -750px;
+      }
+      .timeline{
+        margin-top: 100px;
+        border-left: 3px solid #1DCB8B;
+        height: 316px;
+        position: absolute;
+        left: 50%;
+        margin-left: -170px;
+        top: 0;
+      }
+      .circle1{
+        position: absolute;
+        margin-top: -346px;
+        margin-left: 543px;
+        width: 15px;
+        height: 15px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        border-radius: 25px;
+        background: #1DCB8B;}
+        
+      .circle2{
+        position: absolute;
+        margin-top: -235px;
+        margin-left: 543px;
+        width: 15px;
+        height: 15px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        border-radius: 25px;
+        background: #1DCB8B;
+      }
+      .circle3{
+        position: absolute;
+        margin-top: -125px;
+        margin-left: 543px;
+        width: 15px;
+        height: 15px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        border-radius: 25px;
+        background: #1DCB8B;}
+        .circle4{
+      
+        position: absolute;
+        margin-top: -30px;
+        margin-left: 543px;
+        width: 15px;
+        height: 15px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        border-radius: 25px;
+        background: #1DCB8B;
+      }
+      .time1{
+        position: absolute;
+        margin-top: -340px;
+        margin-left: 400px;
+        color: white;
+        
+      
+      }
+      .time2{
+        position: absolute;
+        margin-top: -235px;
+        margin-left: 400px;
+        color: white;
+        
+      
+      }
+      .time3{
+        position: absolute;
+        margin-top: -125px;
+        margin-left: 400px;
+        color: white;
+        
+      
+      }
+      .time4{
+        position: absolute;
+        margin-top: -30px;
+        margin-left: 400px;
+        color: white;
+        
+      
+      }
+      .events1{
+        position: absolute;
+        margin-top: -357px;
+        margin-left: 680px;
+        color: white;
+      }
+      .events2{
+        position: absolute;
+        margin-top: -247px;
+        margin-left: 680px;
+        color: white;
+      }
+      .events3{
+        position: absolute;
+        margin-top: -132px;
+        margin-left: 680px;
+        color: white;
+      }
+      .events4{
+        position: absolute;
+        margin-top: -47px;
+        margin-left: 680px;
+        color: white;
+      }
+      .joinnow1{
+        position: absolute;
+        margin-top: -357px;
+      padding-left: 30px;
+      padding-right: 30px;
+      
+      background-color: #1DCB8B;
+       
+        border-left: 1px dashed white;
+        border-bottom: 1px dashed white;
+        outline: 1px solid #1DCB8B;
+     
+       
+      
+        margin-left: 1000px;
+      }
+  
+  .joinnow1 a{
+    border:#1DCB8B;
+    background-color: #1DCB8B;
+    color: white;
+    text-decoration: none;
+    
+  }
+  .joinnow2 a{
+    border:#1DCB8B;
+    background-color: #1DCB8B;
+    text-decoration: none;
+    color: white;
+  }
+  .joinnow3 a{
+    border:#1DCB8B;
+    background-color: #1DCB8B;
+    text-decoration: none;
+    color: white;
+  }
+  .joinnow4 a{
+    border:#1DCB8B;
+    background-color: #1DCB8B;
+    color: white;
+    text-decoration: none;
+  }
+      
+      
+      .joinnow2{
+        position: absolute;
+        margin-top: -247px;
+      padding-left: 30px;
+      padding-right: 30px;
+       
+        border-left: 1px dashed white;
+        border-bottom: 1px dashed white;
+        outline: 1px solid #1DCB8B;
+        background-color: #1DCB8B;
+       
+       
+      
+        margin-left: 1000px;
+      }
+      
+      
+      .joinnow3{
+        position: absolute;
+        margin-top: -142px;
+      padding-left: 30px;
+      padding-right: 30px;
+       
+        border-left: 1px dashed white;
+        border-bottom: 1px dashed white;
+        outline: 1px solid #1DCB8B;
+        background-color: #1DCB8B;
+        color: white;
+      
+        margin-left: 1000px;
+      }
+    
+      
+      
+      .joinnow4{
+        position: absolute;
+        margin-top: -47px;
+      padding-left: 30px;
+      padding-right: 30px;
+       
+        border-left: 1px dashed white;
+        border-bottom: 1px dashed white;
+        outline: 1px solid #1DCB8B;
+        background-color: #1DCB8B;
+       
+      
+        margin-left: 1000px;
+      }
+      .footer div{
+        padding: 25px;
+      }
+      .footer div li{
+        list-style-type: none;
+        color:rgb(0, 179, 255);
+      }
+      .footer div li a{
+        color: white;
+        text-decoration: none;
+        list-style-type: none;
+        line-height:2.5;
+      }
+      .footer div form label{
+        color: white;
+      }
+      .footer div form input{
+        padding: 15px;
+        border: 1px solid rgb(0, 179, 255); 
+      }
+      .footer div form button{
+        padding: 12px;
+        background-color:rgb(0, 179, 255); 
+        border-radius: 10%;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-size: 140%;
+        color: white;
+        margin-left: 60px;
+      }
+      .footer div img{
+        padding: 15px;
+      }
+      .footer div{
+        padding: 25px;
+      }
+      .footer div li{
+        list-style-type: none;
+        color:rgb(0, 179, 255);
+      }
+      .footer div li a{
+        color: white;
+        text-decoration: none;
+        list-style-type: none;
+        line-height:2.5;
+      }
+      .footer div form label{
+        color: white;
+      }
+      .footer div form input{
+        padding: 15px;
+        border: 1px solid rgb(0, 179, 255); 
+      }
+      .footer div form button{
+        padding: 12px;
+        background-color:rgb(0, 179, 255); 
+        border-radius: 10%;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-size: 140%;
+        color: white;
+        margin-left: 60px;
+      }
+      .footer div img{
+        padding: 15px;
+      }
+      .address{
+      
+        border-bottom: 3px solid rgb(0, 179, 255);;
+      }
+      td{
+        padding: 50px;
+      }
+      
+      
+  
+   
